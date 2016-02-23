@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jobibasteriopusc00bast_0165.png"; bbox 0 0 3061 2732; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 58 2983 2612">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 134 58 2983 2612">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 58 2983 2612; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 134 58 2983 2612; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 63 2621 1546 2687">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 63 2621 1546 2687">
+     <span class='ocr_line' id='line_1_2' title="bbox 63 2621 1546 2687; baseline -0.003 -18"><span class='ocrx_word' id='word_1_2' title='bbox 63 2658 86 2686; x_wconf 17' lang='lat' dir='ltr'><em>‚t</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 182 2639 225 2669; x_wconf 73' lang='lat' dir='ltr'><em>J.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 246 2621 396 2687; x_wconf 47' lang='grc' dir='ltr'><em>,λῳκιω</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 426 2643 478 2667; x_wconf 56' lang='lat' dir='ltr'><em>(aa</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 498 2636 761 2685; x_wconf 51' lang='lat' dir='ltr'><em>mjfflae.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1416 2652 1431 2665; x_wconf 27' lang='grc' dir='ltr'>χ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1542 2657 1546 2660; x_wconf 97' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
